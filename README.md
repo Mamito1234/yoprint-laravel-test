@@ -67,7 +67,7 @@ This project is developed for evaluation purposes only and is not intended for p
 
 ```bash
 # Clone repo
-git clone https://github.com/YOUR_USERNAME/yoprint-laravel-test.git
+git clone https://github.com/Mamito1234/yoprint-laravel-test
 cd yoprint-laravel-test
 
 # Install dependencies
